@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>✨ I'm currently learning Fullstack Development [briska.my.id](briska.my.id) </p> 
+<p align="left">✨ Creating bugs since 2022<br>✨ I'm currently learning Fullstack Development <br> <a>briska.my.id</a> </p> 
 
 ###
 
